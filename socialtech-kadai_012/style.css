@@ -498,14 +498,14 @@ ul{
 }
 
 li{
-  width:33%
-  margin:20px
+  width:33%;
+  margin: 20px;
 }
 
 .case-card{
   background-color: #FFFFFF;
   min-height: 400px;
-  text-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .case-img{
